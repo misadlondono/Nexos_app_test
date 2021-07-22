@@ -1,0 +1,19 @@
+ .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  table {
+    width: 100%;
+    margin: 1rem;
+  }
+
+  .container {
+    display: flex;
+
+  }
+
+  .button-add {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+  }
